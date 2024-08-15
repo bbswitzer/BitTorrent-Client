@@ -1,0 +1,11 @@
+{
+  "port": 6969,
+  "torrentFile": "../torrents/jimmy.jpeg.torrent",
+  "peers": [
+    {
+      "ip": "127.0.0.1",
+      "peerId": "peer1",
+      "port": 6881
+    }
+  ]
+}
